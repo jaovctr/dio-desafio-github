@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="Introdução ao Ecossistema e Documentação Java/src"/>
 	<classpathentry kind="src" path="Dominando IDEs Java/src"/>
 	<classpathentry kind="src" path="Variáveis, Tipos de Dados e Operadores Matemáticos em Java/src"/>
+	<classpathentry kind="src" path="Entendendo Métodos Java/src"/>
+	<classpathentry kind="src" path="Lógica Condicional e Controle de Fluxos em Java/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
